@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/* CSS Document */
+
+// <uniquifier>: Use a uniquifier for the class name
+// <weight>: Use a value from 200 to 800
+
+.dosis-<uniquifier> {
+  font-family: "Dosis", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+html body {
+    font-family: "Dosis", sans-serif;
+}
